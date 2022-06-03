@@ -1,3 +1,4 @@
 1) eggs
-2) cereal
+2) ceral
 3) soap
+4) milk
