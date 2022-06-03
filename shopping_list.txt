@@ -1,4 +1,8 @@
 1) eggs
 2) ceral
 3) soap
+<<<<<<< HEAD
 4) milk
+=======
+4) bread
+>>>>>>> main
